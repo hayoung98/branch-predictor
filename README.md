@@ -1,2 +1,2 @@
 # branch-predictor
-## 1-
+## 1-bit history
